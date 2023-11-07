@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://identicaldrench.com/ar67qpuk?key=bd4a68669b21d19aa9aa464a8932e2f4`
+					`https://techysrajan.blogspot.com/`
 				}`,
 			},
 		};
